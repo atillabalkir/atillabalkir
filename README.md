@@ -58,4 +58,4 @@ I'm especially interested in projects where **software, automation and AI** come
 ## Contact
 
 - GitHub: [@atillabalkir](https://github.com/atillabalkir)
-- LinkedIn: Add your LinkedIn profile link here
+- LinkedIn: [Atilla Balkır](https://www.linkedin.com/in/atilla-balk%C4%B1r-67b8ba253)
