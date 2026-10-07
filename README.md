@@ -1,16 +1,47 @@
-## Hi there 👋
+# Hi, I'm Atilla 👋
 
-<!--
-**atillabalkir/atillabalkir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Software Developer focused on AI automation, API integrations and backend development.
 
-Here are some ideas to get you started:
+## What I work with
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Python
+- FastAPI
+- JavaScript
+- React
+- n8n
+- OpenAI API
+- REST APIs
+- Webhooks
+- SQL
+- Supabase
+- Docker
+- Git & GitHub
+
+## Current Focus
+
+I'm currently building automation systems, AI-powered applications, CRM integrations and API-driven backend projects.
+
+## Featured Projects
+
+### AI CRM Automation System
+AI-powered CRM automation system with FastAPI, OpenAI, n8n, webhooks and lead scoring.
+
+### Lead Automation API
+Lead management API with webhook and automation-ready architecture using FastAPI.
+
+### AI Support Agent
+AI-powered support ticket classification and automated response system.
+
+### Mini CRM SaaS
+Lightweight CRM backend with customer management, deals and pipeline metrics.
+
+## Interests
+
+- AI Agents
+- Business Process Automation
+- SaaS Development
+- API Integrations
+- CRM Automation
+- Backend Development
+
+Always interested in building practical software and automation solutions.
