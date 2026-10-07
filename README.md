@@ -1,47 +1,61 @@
-# Hi, I'm Atilla 👋
+# Hi, I'm Atilla Balkır 👋
 
-I'm a Software Developer focused on AI automation, API integrations and backend development.
+Software Developer focused on **AI automation, backend development, API integrations and practical SaaS systems**.
 
-## What I work with
+I enjoy turning business problems into working software using Python, FastAPI, n8n, REST APIs, webhooks and AI services.
 
-- Python
-- FastAPI
-- JavaScript
-- React
-- n8n
-- OpenAI API
-- REST APIs
-- Webhooks
-- SQL
-- Supabase
-- Docker
-- Git & GitHub
+## Tech Stack
 
-## Current Focus
+**Backend & Programming**  
+Python • FastAPI • JavaScript • C# • C++
 
-I'm currently building automation systems, AI-powered applications, CRM integrations and API-driven backend projects.
+**AI & Automation**  
+n8n • OpenAI API • AI Agents • Workflow Automation • Webhooks
+
+**Web & Data**  
+React • HTML • CSS • SQL • SQLite • Supabase
+
+**Tools**  
+Git • GitHub • Docker • VS Code
 
 ## Featured Projects
 
-### AI CRM Automation System
+### 🤖 AI CRM Automation System
 AI-powered CRM automation system with FastAPI, OpenAI, n8n, webhooks and lead scoring.
 
-### Lead Automation API
+[View Repository](https://github.com/atillabalkir/ai-crm-automation-system)
+
+### ⚙️ Lead Automation API
 Lead management API with webhook and automation-ready architecture using FastAPI.
 
-### AI Support Agent
+[View Repository](https://github.com/atillabalkir/lead-automation-api)
+
+### 🧠 AI Support Agent
 AI-powered support ticket classification and automated response system.
 
-### Mini CRM SaaS
+[View Repository](https://github.com/atillabalkir/ai-support-agent)
+
+### 📊 Mini CRM SaaS
 Lightweight CRM backend with customer management, deals and pipeline metrics.
 
-## Interests
+[View Repository](https://github.com/atillabalkir/mini-crm-saas)
 
-- AI Agents
-- Business Process Automation
-- SaaS Development
-- API Integrations
-- CRM Automation
-- Backend Development
+## Currently Focused On
 
-Always interested in building practical software and automation solutions.
+- AI-powered business automation
+- API and webhook integrations
+- CRM automation
+- AI agent workflows
+- Backend and SaaS development
+- Building MVPs and internal tools
+
+## About Me
+
+I'm a Computer Programming graduate based in Istanbul. I focus on learning quickly, solving technical problems and building practical systems that automate repetitive work and connect different services.
+
+I'm especially interested in projects where **software, automation and AI** come together.
+
+## Contact
+
+- GitHub: [@atillabalkir](https://github.com/atillabalkir)
+- LinkedIn: Add your LinkedIn profile link here
